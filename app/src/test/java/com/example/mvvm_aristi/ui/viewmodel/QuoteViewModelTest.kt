@@ -29,12 +29,12 @@ class QuoteViewModelTest {
     fun onBefore() {
         MockKAnnotations.init(this)
         quoteViewModel = QuoteViewModel(getQuotesUseCase, getRandomQuoteUseCase)
-        //Dispatchers.Unconfined
+        Dispatchers.Unconfined
     }
 
     @After
     fun onAfter() {
-        //Dispatchers.shutdown()
+        Dispatchers.shutdown()
     }
 
 /*    @Test
