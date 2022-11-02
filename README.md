@@ -1,5 +1,5 @@
 # MVVM-Aristi
-Proyecto del Tutorial de AristiDevs sobre Arquitectura MVVM en Android Studio.
+Proyecto del Tutorial de AristiDevs sobre Arquitectura MVVM Kotlin en Android Studio.
 #MVVM, #Clean Architecture, #Retrofit2, #Corrutines, #Dagger, #HILT, #Room, #Testing
 
 
